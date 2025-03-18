@@ -71,4 +71,3 @@ class TestRecipe:
                     instructions="idk lol")
                 db.session.add(recipe)
                 db.session.commit()
-
